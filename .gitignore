@@ -1,1 +1,13 @@
 .direnv
+target/
+**/*.rs.bk
+.idea/
+*.iml
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.vscode/
+*.code-workspace
